@@ -1,5 +1,7 @@
-# anon_cert_c
+# Anonymous Certificate System (anon_cert) - C Implementation
+
 A C language implementation of an anonymous certificate system based on BLS12-381 elliptic curve cryptography. This system provides privacy-preserving credential issuance, verification, selective disclosure, and revocation capabilities.
+
 ## Overview
 
 This implementation provides a complete anonymous credential system that allows:
