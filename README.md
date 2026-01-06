@@ -393,7 +393,6 @@ This implementation follows the same license as the original project.
 
 - BLS12-381 curve specification
 - blst library: https://github.com/supranational/blst
-- Anonymous credential system paper (referenced in implementation)
 
 ## Contributing
 
